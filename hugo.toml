@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
 [params.author]
     name = "Jiaqi Cheng"
     headline = "A Full Stack Engineer"
-  # image = "img/author.jpg"  # path relative to static directory
+    image = "img/JiaqiCheng.jpg"  # path relative to static directory
 
   links = [
     { email = "mailto:jiaqicheng1104@gmail.com" },
@@ -34,7 +34,7 @@ disableKinds = ["taxonomy", "term"]
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
-    # { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://www.linkedin.com/in/jiaqi-cheng-2b637a190/" },
     # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
